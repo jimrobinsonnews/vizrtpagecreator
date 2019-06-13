@@ -11,3 +11,16 @@
   
   Use GET and POST to complete text string passthrough.
   
+  ## VIZRT Manuals for port connections - VIZRT is the owner of this information.
+  https://docs.vizrt.com/feed-streamer-guide/1.5/Configuring_Ports.html
+  
+Configuring Ports
+Feed Streamer system components connect with each other via your local network and also require an Internet connection. During the initial configuration of the system, the different communication ports should be enabled in firewalls etc.
+The following section lists the Feed Streamer system components and the default ports they use. For each component, the steps to modify the port number are described.
+
+• DataHub default port: 8089 (HTTP)
+• CouchDB default port: 5984 (HTTP)
+• CouchDB Lucene default port: 55984 (HTTP)
+• Media Sequencer (for Viz Trio and Viz Ticker) default ports: 8580 (HTTP) and 8594 (TCP)
+
+  
