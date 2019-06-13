@@ -1,4 +1,4 @@
-<bold>## PURPOSE:</bold>
+## PURPOSE:
   The web app will communicate with a VizRT Trio server over websocket, allowing user to load current templates from mediahub
   and create new pages.
   
@@ -7,5 +7,7 @@
   User saves new page with auto-sequential number
   New page appears in active show within VizRT Trio server and media hub
   
+  <IP-ADDRESS:8450>
   
+  Use GET and POST to complete text string passthrough.
   
