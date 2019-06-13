@@ -1,0 +1,5 @@
+## PURPOSE:
+  The web app will communicate with a VizRT Trio server over websocket. Allowing user to load current templates from mediahub
+  and create new pages from templates in real-time.
+  
+  
